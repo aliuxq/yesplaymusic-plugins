@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>YesPlayMusic 音源插件汇总</title>
+  <meta name="description" content="第三方整理的 YesPlayMusic 音源插件汇总，收录官方与社区插件，按 GitHub 星标排行。" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="hero">
+    <h1>YesPlayMusic 音源插件汇总</h1>
+    <p class="subtitle">
+      第三方汇总，非官方项目。安装插件：打开 YesPlayMusic → 设置 → 插件 → 安装插件，粘贴仓库地址即可。
+    </p>
+    <p class="official-link">
+      官方仓库：<a href="https://github.com/qier222/YesPlayMusic" target="_blank" rel="noopener">qier222/YesPlayMusic</a>
+      · 插件开发文档：<a href="https://github.com/qier222/YesPlayMusic/blob/main/docs/plugins.md" target="_blank" rel="noopener">plugins.md</a>
+    </p>
+  </header>
+
+  <main>
+    <p class="note">
+      社区插件按 GitHub 星标数排行，顺序仅代表热度，不代表质量、安全性或任何推荐倾向。
+    </p>
+
+    <section>
+      <h2>官方插件</h2>
+      <p class="section-desc">由 YesPlayMusic 官方维护，连接自建的媒体服务器。</p>
+      <div id="official-list" class="grid"></div>
+    </section>
+
+    <section>
+      <h2>社区插件</h2>
+      <p class="section-desc">由社区开发者维护，按星标数排行。</p>
+      <div id="community-list" class="grid"></div>
+    </section>
+
+    <section class="contribute">
+      <h2>收录你的插件</h2>
+      <p>
+        想让你的插件出现在这里？给仓库打上 <code>yesplaymusic-plugin</code> 标签即可自动收录；
+        或前往本项目的 GitHub 仓库提交 Pull Request 补充简介。
+      </p>
+    </section>
+  </main>
+
+  <footer>
+    <p>本页数据来自 GitHub 公开接口，实时获取。</p>
+  </footer>
+
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
