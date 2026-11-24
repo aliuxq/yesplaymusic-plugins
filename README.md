@@ -1,5 +1,11 @@
 # YesPlayMusic 音源插件汇总
 
+<p align="center">
+  <a href="https://aliuxq.github.io/yesplaymusic-plugins/">
+    <img src="https://img.shields.io/badge/%E5%9C%A8%E7%BA%BF%E8%AE%BF%E9%97%AE-%E7%AB%8B%E5%8D%B3%E6%89%93%E5%BC%80-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="在线访问" />
+  </a>
+</p>
+
 一个第三方整理的 [YesPlayMusic](https://github.com/qier222/YesPlayMusic) 音源插件汇总页，收录官方与社区插件。
 
 - **官方插件**：由 YesPlayMusic 官方维护（Plex / Jellyfin / Emby / Subsonic），固定列在最上方；
