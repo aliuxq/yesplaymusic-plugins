@@ -1,4 +1,4 @@
-# YesPlayMusic 音源插件汇总
+# YesPlayMusic 音源插件在线商店/汇总
 
 <p align="center">
   <a href="https://aliuxq.github.io/yesplaymusic-plugins/">
